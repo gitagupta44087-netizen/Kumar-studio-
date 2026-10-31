@@ -1,0 +1,6 @@
+{
+  "name": "Kumar Studio — Luxury Photography & Cinema Studio in Chhapra",
+  "description": "Award-winning photography studio and camera shop at Kacheri Station Road, Chhapra, Bihar. Specializing in royal weddings, pre-wedding cinema, editorial portraits, commercial products, and pro gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
